@@ -1,3 +1,10 @@
+/* Use of function of Matcher 
+ 1) find()
+ 2) start()
+ 3) end()
+ 4) group()
+*/
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
